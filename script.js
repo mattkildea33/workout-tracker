@@ -25,7 +25,10 @@ addWorkoutBtn.addEventListener("click", () => {
       <h6 class="card-subtitle mb-2 text-muted">${workoutType}</h6>
 
       <p class="card-text">
-        Exercises: Example exercise list
+        Exercises: 
+        1. Bench Press - 3 sets of 10 reps<br>
+        2. Squats - 3 sets of 12 reps<br>
+        3. Deadlifts - 3 sets of 8 reps
       </p>
 
       <button class="btn btn-success btn-sm me-2 complete-btn">
