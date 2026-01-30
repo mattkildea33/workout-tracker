@@ -11,7 +11,7 @@ addWorkoutBtn.addEventListener("click", () => {
 
   // Basic validation (lightweight on purpose)
   if (workoutName === "" || workoutType === "") {
-    alert("Please enter a workout name and select a type.");
+    alert("Please enter a workout name and select a type please.");
     return;
   }
 
